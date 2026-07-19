@@ -4,6 +4,7 @@ import sys, hashlib
 
 flag_hashes = {
     "puzzle 1": "fe6a30203e4f5f5a94ab8fb6f8535e2630926f242b6fbd5aae296922a2beaa53",
+    "puzzle 2": "0cab9f8f148cd25ad7c109957421adcdd439e533c196016052b0530307931039"
 }
 
 try:
