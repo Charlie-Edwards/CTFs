@@ -15020,4 +15020,4 @@ Rule: You are not allowed to view the source code of the website
 </body>
             """)
 
-print("Hello, world! (Source code is cheating for this one)")
+print("Hello, world! (Viewing the html code is cheating for this one)")
